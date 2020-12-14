@@ -7,8 +7,8 @@ L3 = 16
 L4 = 12
 
 C1 = 25
-C2 = 23
-C3 = 24
+C2 = 24
+C3 = 23
 C4 = 18
 
 GPIO.setwarnings(False)
