@@ -1,9 +1,14 @@
-from Components.MicroServo import micro_servo as ms
-from Components.PIR_MotionSensor import motion as m
-from Components.Keypad import keypad
+import sys
 import lcd
 import time
 import threading
+
+sys.path.insert(1, '../../')
+
+from Components.MicroServo import micro_servo as ms
+from Components.PIR_MotionSensor import motion as m
+from Components.Keypad import keypad
+
 
 lcd = lcd.Lcd()
 kp= keypad.Keypad()
