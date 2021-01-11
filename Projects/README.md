@@ -1,3 +1,3 @@
 # Small Projects
 
-In this folder, I will share my small project examples.
+In this folder, you can find my small Raspberry Pi projects.
