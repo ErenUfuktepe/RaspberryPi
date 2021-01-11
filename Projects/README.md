@@ -1,2 +1,3 @@
-# RaspberryPi
-Basic Raspberry Pi projects.
+# Small Projects
+
+In this folder, I will share my small project examples.
